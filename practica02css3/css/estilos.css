@@ -7,10 +7,13 @@ body{
 }
 
 header input{
-	
+	float: right;
 	margin-right: -200px;
 	margin-top: 15px;
 	position: relative;
+}
+header nav{
+	margin-left: 220px;
 }
 header nav ul li {
 	border-bottom: 1px solid gray;
@@ -21,10 +24,7 @@ header nav ul li {
 	padding-bottom: 2px;
 
 }
-header input{
-	float: right;
-	margin-right: -200px;
-}
+
 
 #Granthams{
 	margin-left: 25px;
