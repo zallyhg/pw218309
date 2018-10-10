@@ -30,7 +30,7 @@ header nav ul li {
 	top: -410px;
 	left: -30px; 
 }	
-#Granthams{
+#granthams{
 	margin-left: 25px;
 	margin-top: 25px;
 }
@@ -39,7 +39,7 @@ header nav ul li {
 	margin-left: 25px;
 }
 
-#Paint{
+#paint{
 	float: right;
 }
 #primerSeccion{
@@ -73,19 +73,24 @@ header nav ul li {
 	padding-right: 130px;
 }
 
-
-#terceraseccion article img{
+#terceraSeccion article {
+	width: 23%;
+	display: inline-block;
+	vertical-align: top;
+}
+#terceraSeccion article img{
 	/*alineacion vertical del texto que lo rodea*/
 	vertical-align: middle;
 }
 
-#terceraseccion article input[type="burron"]{
+#terceraSeccion article input[type="button"]{
 	background: #8BC500;
 	border-radius: 5px;
 	color: white;
 }
 
-#terceraseccion article input[type="email"]{
+#terceraSeccion article input[type="email"]{
+
 	border-radius: 5px;
 }
 
@@ -96,14 +101,17 @@ header nav ul li {
 .colorrosa{
 	color: #4267B3;
 }
-
+.colorverde{
+	color: #8bc500;
+}
 .letragrande{
 	font-size: 3.5em;
-}
-.nito{
-	font-weight: bold;
 }
 .letramediana{
 	font-size: 2em;
 }
+.nito{
+	font-weight: bold;
+}
+
 
