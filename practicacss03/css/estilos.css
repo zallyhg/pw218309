@@ -1,0 +1,51 @@
+body{
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+}
+
+body header{
+	background: #f0f0f0;
+	display: inline-block;
+}
+body header input{
+
+	margin-left: 20px;
+}
+body header img{
+	margin-left: 200px;
+}
+
+
+#primeraSeccion{
+	background: #2b2b2b;
+	
+}
+
+#primeraSeccion article{
+	display: inline-block;
+}
+#primeraSeccion ul li{
+	color: white;
+}
+
+.letragrande{
+	font-size: 2em;
+}
+.letramediana{
+	font-size: 1em;
+}
+.nito{
+	font-weight: bold;
+} 
+.colorblanco{
+	color: white;
+}
+.colorgris{
+	color: #545454;
+}
+.colorverde{
+	color: #b2d247;
+}
+colorgrisclaro{
+	color: #e4e4e4;
+}
