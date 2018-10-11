@@ -8,7 +8,8 @@ body header{
 	display: inline-block;
 }
 body header input{
-
+	/*quitarle margin de arriba lo sube, aniadirle lo baja*/
+	margin-top: -60px;
 	margin-left: 20px;
 }
 body header img{
