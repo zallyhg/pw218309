@@ -1,16 +1,22 @@
 body{
+	border: 1px solid black;
 	font-size: 16px;
 	font-family: 'Roboto', sans-serif;
+	margin: 0px auto;
+	max-width: 2082px;
 }
 
-body header{
+header{
+	padding-left: 15px;
 	background: #f0f0f0;
 	display: inline-block;
 }
-body header input{
+header input{
 	/*quitarle margin de arriba lo sube, aniadirle lo baja*/
-	margin-top: -60px;
-	margin-left: 20px;
+	height: 51px;
+	vertical-align: top;
+	/*margin-top: -60px;
+	margin-left: 20px;*/
 }
 body header img{
 	margin-left: 200px;
