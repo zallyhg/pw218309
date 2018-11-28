@@ -1,0 +1,10 @@
+Tabla --->cursor
+BOF EOF
+ap
+B0F
+	0
+	.
+	.
+	.
+	n-1
+EOF
